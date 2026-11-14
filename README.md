@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sharad Gendre 👋
 
-<!--
-**sharadgendre/sharadgendre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building Digital Experiences | Growing Businesses Online
 
-Here are some ideas to get you started:
+I'm a Digital Marketing professional passionate about helping businesses grow online through digital marketing, SEO, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Digital Marketing
+- Search Engine Optimization (SEO)
+- Google Ads & Meta Ads
+- Social Media Marketing
+- Content Marketing
+- WordPress Website Creation
+
+### 🛠️ Tools & Technologies
+- WordPress
+- HTML & CSS
+- PHP & MySQL (Learning & Exploring)
+- Canva & Photoshop
+- Google Analytics & Search Console
+
+### 🌱 Currently Exploring
+- Web Development
+- AI Tools & Automation
+- New Digital Technologies
+
+### 🌐 Connect With Me
+- Instagram: https://www.instagram.com/sharadkumar01/
+- GitHub: https://github.com/sharadgendre
+
+---
+
+*Building, Learning & Growing Every Day.*
