@@ -14,7 +14,7 @@ I'm a Digital Marketing professional passionate about helping businesses grow on
 
 ### 🛠️ Tools & Technologies
 - WordPress
-- HTML & CSS
+- HTML & CSS (Learning & Exploring)
 - PHP & MySQL (Learning & Exploring)
 - Canva & Photoshop
 - Google Analytics & Search Console
